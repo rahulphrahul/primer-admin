@@ -1,0 +1,11 @@
+.form__label{
+    font-size: 18px;
+    color: black;
+    float: left;
+    margin-top: 5px;
+}
+
+.MuiOutlinedInput-input {
+    padding: 9.5px 19px !important;
+}
+

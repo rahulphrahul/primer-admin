@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/react/static/css/main.673e1fd3.chunk.css",
+    "main.js": "/react/static/js/main.9707bc81.chunk.js",
+    "main.js.map": "/react/static/js/main.9707bc81.chunk.js.map",
+    "runtime-main.js": "/react/static/js/runtime-main.cab6551a.js",
+    "runtime-main.js.map": "/react/static/js/runtime-main.cab6551a.js.map",
+    "static/css/2.422a9eb5.chunk.css": "/react/static/css/2.422a9eb5.chunk.css",
+    "static/js/2.efd70f89.chunk.js": "/react/static/js/2.efd70f89.chunk.js",
+    "static/js/2.efd70f89.chunk.js.map": "/react/static/js/2.efd70f89.chunk.js.map",
+    "index.html": "/react/index.html",
+    "static/css/2.422a9eb5.chunk.css.map": "/react/static/css/2.422a9eb5.chunk.css.map",
+    "static/css/main.673e1fd3.chunk.css.map": "/react/static/css/main.673e1fd3.chunk.css.map",
+    "static/js/2.efd70f89.chunk.js.LICENSE.txt": "/react/static/js/2.efd70f89.chunk.js.LICENSE.txt",
+    "static/js/main.9707bc81.chunk.js.LICENSE.txt": "/react/static/js/main.9707bc81.chunk.js.LICENSE.txt",
+    "static/media/australia.png": "/react/static/media/australia.740990b0.png",
+    "static/media/canada.png": "/react/static/media/canada.aff967b9.png",
+    "static/media/image_placeholder.61b9ec86.jpg": "/react/static/media/image_placeholder.61b9ec86.jpg",
+    "static/media/institution.jpg": "/react/static/media/institution.b5d4ad1d.jpg",
+    "static/media/Accordion.css": "/react/static/media/plus.4827eb6b.svg",
+    "static/media/master.png": "/react/static/media/master.73e13650.png",
+    "static/media/newzealand.jpg": "/react/static/media/newzealand.0c2a8356.jpg",
+    "static/media/placeholder.afc96671.jpg": "/react/static/media/placeholder.afc96671.jpg",
+    "static/media/programs.jpg": "/react/static/media/programs.8d6d8892.jpg",
+    "static/media/ug.png": "/react/static/media/ug.e1011e38.png",
+    "static/media/us.jpg": "/react/static/media/us.7072a2bc.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cab6551a.js",
+    "static/css/2.422a9eb5.chunk.css",
+    "static/js/2.efd70f89.chunk.js",
+    "static/css/main.673e1fd3.chunk.css",
+    "static/js/main.9707bc81.chunk.js"
+  ]
+}

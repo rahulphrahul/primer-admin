@@ -1,0 +1,86 @@
+{
+    "blogs": [
+      {
+        "title": "My First Blog",
+        "body": "Why do we use it?\nIt is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many ",
+        "author": "mario",
+        "img": "https://media.istockphoto.com/photos/technology-abstract-picture-id1148091793?k=6&m=1148091793&s=612x612&w=0&h=m2vuawlHNUvykE4qVanxHaldO6ge2SxFx5EiGSe9nE0=",
+        "id": 1
+      },
+      {
+        "title": "Opening Party!",
+        "body": "Why do we use it?\nIt is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many ",
+        "author": "yoshi",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPaQCyX34SpbhyKpsqUXrQLcY0D4sslXYeIA&usqp=CAU",
+        "id": 2
+      },
+      {
+        "title": "Opening Party!",
+        "body": "Why do we use it?\nIt is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many ",
+        "author": "yoshi",
+        "img": "https://wallpaperaccess.com/full/1892752.jpg",
+        "id": 2
+      },
+      {
+        "title": "Opening Party!",
+        "body": "Why do we use it?\nIt is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many ",
+        "author": "yoshi",
+        "img": "https://knowlab.in/wp-content/uploads/2020/12/connected-technology.jpg",
+        "id": 2
+      },{
+        "title": "My First Blog",
+        "body": "Why do we use it?\nIt is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many ",
+        "author": "mario",
+        "img": "https://media.istockphoto.com/photos/technology-abstract-picture-id1148091793?k=6&m=1148091793&s=612x612&w=0&h=m2vuawlHNUvykE4qVanxHaldO6ge2SxFx5EiGSe9nE0=",
+        "id": 1
+      },
+      {
+        "title": "Opening Party!",
+        "body": "Why do we use it?\nIt is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many ",
+        "author": "yoshi",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPaQCyX34SpbhyKpsqUXrQLcY0D4sslXYeIA&usqp=CAU",
+        "id": 2
+      }
+    ],
+    "programs": [
+        {
+          "title": "Engineering",
+          "icon": "settings",
+          "id": 1
+        },
+        {
+          "title": "Computer Science",
+          "icon": "devices",
+          "id": 2
+        },
+        {
+          "title": "Cyber Security",
+          "icon": "fingerprint",
+          "id": 2
+        },
+        {
+          "title": "Psychology",
+          "icon": "chat",
+          "id": 2
+        },{
+          "title": "Madicine",
+          "icon": "verifiedUser",
+          "id": 1
+        },
+        {
+          "title": "Bussiness & Management",
+          "icon": "businessCenter",
+          "id": 2
+        },
+        {
+          "title": "Mechanical Engineering",
+          "icon": "settings",
+          "id": 2
+        },
+        {
+          "title": "Law",
+          "icon": "gavel",
+          "id": 2
+        }
+      ]
+  }
